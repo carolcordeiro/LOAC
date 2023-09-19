@@ -1,4 +1,4 @@
-### 💽 Laboratório de Organização e Arquitetura de Computadores 💾
+## 💽 Laboratório de Organização e Arquitetura de Computadores 💾
 
 - Atividades desenvolvidas na disciplina de LOAC no curso de Ciência da Computação (UFCG).
 - Docentes: Joseana Macêdo Fechine e Marcela Tassyany Galdino Santos
